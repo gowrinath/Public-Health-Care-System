@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PHR_cloud computing (2)">
+</Property><Property Name="Solution File" Value="F:\Dotnet Extn\IEEE 2012\CLOUD COMPUTING\Scalable and Secure Sharing of Personal Health Records in Cloud Computing using Attribute-based Encryption\Project code\PHR_cloud computing\PHR_cloud computing (2).sln">
+</Property><Property Name="User Options File" Value="F:\Dotnet Extn\IEEE 2012\CLOUD COMPUTING\Scalable and Secure Sharing of Personal Health Records in Cloud Computing using Attribute-based Encryption\Project code\PHR_cloud computing\PHR_cloud computing (2).suo">
+</Property><Property Name="Date" Value="Wednesday, October 16, 2013">
+</Property><Property Name="Time" Value="12:26 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PHR_cloud computing (2).sln" Description="File successfully backed up as F:\Dotnet Extn\IEEE 2012\CLOUD COMPUTING\Scalable and Secure Sharing of Personal Health Records in Cloud Computing using Attribute-based Encryption\Project code\PHR_cloud computing\Backup\PHR_cloud computing (2).sln">
+</Event><Event ErrorLevel="0" Project="" Source="PHR_cloud computing (2).suo" Description="File successfully backed up as F:\Dotnet Extn\IEEE 2012\CLOUD COMPUTING\Scalable and Secure Sharing of Personal Health Records in Cloud Computing using Attribute-based Encryption\Project code\PHR_cloud computing\Backup\PHR_cloud computing (2).suo">
+</Event><Event ErrorLevel="1" Project="PHR_cloud computing" Source="..\PHR_cloud computing" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="" Source="PHR_cloud computing (2).sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="PHR_cloud computing (2).sln" Description="Converted">
+</Event></UpgradeLog>
